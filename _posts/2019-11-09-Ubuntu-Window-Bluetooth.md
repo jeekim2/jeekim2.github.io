@@ -7,7 +7,9 @@ categories: Ubuntu
 tags: [Bluetooth]
 ---
 
-## 사용환경
+## Continuous bluetooth device setting in linux - windows dual booting system
+
+### 사용환경
 
 Category | Detail
 ---------|-------
@@ -15,7 +17,7 @@ Windows | Windows 10 Pro
 Linux | Ubuntu 18.04 LTS
 Computer | Lenovo Thinkpad T490
 
-## Introduction
+### Introduction
 
 리눅스를 배우기 위해 윈도우/우분투의 Dual OS 시스템을 구축하고 사용하고 있습니다.
 두 OS의 목적이 다르다고 해도, 다른 OS로 바꿔서 부팅 할 때마다 사용하고 있던 블루투스 마우스의 페어링을 다시 잡아야 하기 때문에 작업의 연속성이 떨어지게 됩니다.
